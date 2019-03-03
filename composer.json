@@ -1,0 +1,24 @@
+{
+    "name": "palicao/crdt-gcounter",
+    "description": "CRDT G-Counter implementation",
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/http": "^0.8.4",
+        "nikic/fast-route": "^1.3",
+        "react/http-client": "^0.5.9",
+        "monolog/monolog": "^1.24",
+        "ext-json": "*",
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CRDT_GCounter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alessandro Balasco",
+            "email": "alessandro.balasco@gmail.com"
+        }
+    ]
+}
