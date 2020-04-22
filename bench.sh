@@ -1,3 +1,3 @@
 #!/bin/bash
 
-siege -f bench_urls.txt -c10 -i -t1
+siege -f bench_urls.txt -c10 -i -t10s

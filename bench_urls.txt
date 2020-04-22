@@ -1,3 +1,3 @@
-http://127.0.0.1:8080/increment POST
-http://127.0.0.1:8081/increment POST
-http://127.0.0.1:8082/increment POST
+http://127.0.0.1:9090/increment POST
+http://127.0.0.1:9091/increment POST
+http://127.0.0.1:9092/increment POST
